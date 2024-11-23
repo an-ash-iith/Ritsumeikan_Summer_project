@@ -1,4 +1,4 @@
-Protype of the model created
+Prototype of the model created
 <html lang="en">
 
 <head>
